@@ -1,0 +1,6 @@
+{
+  "name": "Yagona Vatan - yagona xalq",
+  "description": "226-maktab 10-“V” sinf o‘quvchilari loyiha ishi: “Yagona Vatan — yagona xalq”, O‘zbekiston mustaqilligi tarixi, davlat ramzlari, islohotlar tahlili va kiberxavfsizlik portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
